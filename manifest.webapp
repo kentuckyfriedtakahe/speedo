@@ -1,0 +1,23 @@
+{
+  "version": "0.1",
+  "name": "Speedo",
+  "launch_path": "/speedo",
+  "description": "Show current speed",
+  "icons": {
+    "16": "/img/icons/mortar-16.png",
+    "48": "/img/icons/mortar-48.png",
+    "128": "/img/icons/mortar-128.png"
+  },
+  "developer": {
+    "name": "Anthony Jones",
+    "url": "http://reactiveprogramming.org/"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/speedo/cache.manifest",
+  "default_locale": "en",
+  "permissions": {
+    "geolocation": {
+      "description": "Required to measure speed"
+    }
+  }
+}

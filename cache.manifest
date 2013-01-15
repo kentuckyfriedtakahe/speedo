@@ -1,0 +1,28 @@
+CACHE MANIFEST
+
+# Time: Tue Jan 15 2013 14:05:37 GMT+1300 (NZDT)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://reactiveprogramming.org/speedo/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://reactiveprogramming.org/speedo/
+#  configFile: config.json
+
+CACHE:
+css/app.css
+js/lib/require.js
+
+NETWORK:
+*
