@@ -10,7 +10,7 @@
   },
   "developer": {
     "name": "Anthony Jones",
-    "url": "http://reactiveprogramming.org/"
+    "url": "http://kentuckyfriedtakahe.github.com/speedo/"
   },
   "installs_allowed_from": ["*"],
   "appcache_path": "/speedo/cache.manifest",
