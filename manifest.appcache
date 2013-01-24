@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# wYJdoxpCLoVTtfUg6Sr7ajN4e4Y=
+
+CACHE:
+.htaccess
+build.txt
+js/lib/require.js
+js/init.js
+js/app.js
+index.html
+favicon.ico
+manifest.webapp
+css/app.css
+css/install-button.css
+img/icons/mortar-16.png
+img/icons/mortar-48.png
+img/icons/mortar-128.png
+img/.gitignore
+img/glyphicons-halflings.png
+img/glyphicons-halflings-white.png
+
+# catch-all for anything else
+NETWORK:
+*
+http://*
+https://*
